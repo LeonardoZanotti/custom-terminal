@@ -28,9 +28,10 @@ $ export PS1="[\\u@\\H \\W \\@]\\$ "
 # \@ displays the time in 12-hour format
 ```
 Then we have:
+
 <img src="./time_nocolor_terminal.png" alt="Terminal without colors and with time" />
 
-To use colors, we should use shell color, that are the following:
+To use colors, we should use shell colors, that are the following:
 
 | Shell code | Color  |
 | -----------|:------:|
