@@ -4,7 +4,7 @@
 This is a guide to how you can to customize your linux terminal.
 
 ## Basic knowledge about custom terminal
-The linux terminal, at least the Mint terminal, has a bash configuration file called `.bashrc`, located in the ~ directory (user directory). This file defines some commands of the terminal e the style of it. So if you need to run some big command frequently, you can just create an alias in this file to make your life easier.
+The linux terminal, at least the Mint terminal, has a bash configuration file called `.bashrc`, located in the ~ directory (user directory). This file defines some commands of the terminal and the style of it. So if you need to run some big command frequently, you can just create an alias in this file to make your life easier.
 
 About the style of terminal, this file has a PS1 variable that defines the prompt shell line style (the command line style).
 ```bash
@@ -28,7 +28,7 @@ $ export PS1="[\\u@\\H \\W \\@]\\$ "
 # \@ displays the time in 12-hour format
 ```
 Then we have:
-<img src="./time_nocolor_terminal" alt="Terminal without colors and with time" />
+<img src="./time_nocolor_terminal.png" alt="Terminal without colors and with time" />
 
 To use colors, we should use shell color, that are the following:
 
