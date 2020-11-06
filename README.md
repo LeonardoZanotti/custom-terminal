@@ -141,8 +141,7 @@ And then choose the themes you want to download. Finally, just change the theme 
 
 <img src="profiles_terminal.png" alt="Profiles of the terminal" />
 
-## Other options
-You always can search for some theme in the internet. The Dracula theme if my favorite, so (here is a page if you want to download this theme)[https://draculatheme.com/terminal], just follow the guide and you will get something like this:
+You always can search for some theme in the internet. The Dracula theme is my favorite, so [here is a page if you want to download this theme](https://draculatheme.com/terminal), just follow the guide and you will get something like this:
 
 <img src="https://draculatheme.com/static/img/screenshots/terminal.png" alt="Dracula theme" />
 
