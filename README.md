@@ -122,6 +122,9 @@ fi
 # fi
 # unset color_prompt force_color_prompt
 ```
+Im using the Dracula theme (i will talk about this below), but this configurations changes your terminal to something like this:
+
+<img src="./my_terminal.png" alt="My terminal" />
 
 ## Custom fonts
 You can install custom fonts to your terminal and then select this in your profile. Im using Fantasque Sans, which you can install in Debian and derivades with:
@@ -136,7 +139,7 @@ $ bash -c  "$(wget -qO- https://git.io/vQgMr)"
 ```
 And then choose the themes you want to download. Finally, just change the theme in your profile in the terminal (usually a right click on the terminal shows the options for you, if not, you probably will find this in the terminal top menu).
 
-<img src="profiles_terminal" alt="Profiles of the terminal" />
+<img src="profiles_terminal.png" alt="Profiles of the terminal" />
 
 ## Other options
 You always can search for some theme in the internet. The Dracula theme if my favorite, so (here is a page if you want to download this theme)[https://draculatheme.com/terminal], just follow the guide and you will get something like this:
