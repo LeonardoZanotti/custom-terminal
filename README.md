@@ -150,7 +150,7 @@ You can find more themes with [Oh My BASH](https://ohmybash.nntoan.com/), just s
 <img src="https://ohmybash.nntoan.com/assets/img/themes/nebirhos.jpg" alt="Oh My BASH" />
 
 ## References
-Thanks to Vivek Gite for (his article)[https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/], very cool!
+Thanks to Vivek Gite for [his article](https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/), very cool!
 And thanks to [this youtube video](https://www.youtube.com/watch?v=oJrxue3PjaY) from O Pinguim Criativo, so helpful.
 
 ## LeonardoZanotti
